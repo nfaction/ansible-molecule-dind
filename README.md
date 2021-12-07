@@ -4,6 +4,8 @@ Docker container capable of running Ansible + Ansible-Molecule. This container u
 
 Here's the article that this container is sourced from: https://devopscube.com/run-docker-in-docker/
 
+The container can be found [here.](https://hub.docker.com/repository/docker/spikebyte/ansible-molecule-dind/general)
+
 ## Usage
 
 How to use this container:
